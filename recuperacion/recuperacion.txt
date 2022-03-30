@@ -1,0 +1,19 @@
+<html>
+<head>
+<title><RECUPERACION</title>
+</head>
+<table border="px3">
+<caption> aaron canche 6 k</caption>
+
+<tr>
+<tr></td>
+<td></td>
+<td></td>
+<td></td>
+
+<tr><td>fisico matematico</td>
+<td>td>quimico biologo</td>
+<td>economico administrativo</td>
+<td>humanidades</td>
+
+<td></td>

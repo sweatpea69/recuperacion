@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>recuperacion</title>
+<p>quinto semestre</p>
+<ol type>
+<li>etimologias grecolatinas
+<li>administracion
+<li>matematicas financieras
+<li>contabilidad
+</ol type>
+<br>
+<p>sexto semestre</p>
+<ul type>
+<li>etimologias grecolatinas 2
+<li>administracion 2
+<li>contabilidad 2
+<li>matematicas financieras 2
+</ul type>
